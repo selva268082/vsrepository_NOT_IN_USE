@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 //Pandy adding this change
- 
+ //adding this to check
 @Entity
 @Table(name="VS_MENU")
 public class Menu {
