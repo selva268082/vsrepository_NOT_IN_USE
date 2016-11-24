@@ -12,7 +12,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 //Pandy adding this change
  //Ok- Selva accepted the change
-//Ok
+//Ok hi
 @Entity
 @Table(name="VS_MENU")
 public class Menu {
